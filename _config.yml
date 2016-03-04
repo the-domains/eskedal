@@ -1,0 +1,28 @@
+name: Eskedal
+favicon: null
+layout_spectrum: 0.6733195553533733
+typography_spectrum: 0.6056334343738854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7064474860671908
+  lightness: 0.8767695100978017
+  saturation: 0.13670598226599395
+  rhythmicContrast: 0.22736929962411523
+purpose: []
